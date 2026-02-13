@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:match(:/.*)",
+      "destination": "https://shorturl-backend-2bif.onrender.com/:match"
+    }
+  ]
+}
